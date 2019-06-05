@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<fr.tvbarthel.parallax.sample.github.parallax.ParallaxRelativeLayout
+<com.josh.ParallaxSampleGitHub.parallax.ParallaxRelativeLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:parallax="http://schemas.android.com/apk/res-auto"
     android:id="@+id/parallax"
@@ -98,4 +98,4 @@
         android:tag="5"/>
 
 
-</fr.tvbarthel.parallax.sample.github.parallax.ParallaxRelativeLayout>
+</com.josh.ParallaxSampleGitHub.parallax.ParallaxRelativeLayout>

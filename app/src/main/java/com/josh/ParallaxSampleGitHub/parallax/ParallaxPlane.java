@@ -1,4 +1,4 @@
-package fr.tvbarthel.parallax.sample.github.parallax;
+package com.josh.ParallaxSampleGitHub.parallax;
 
 /**
  * Created by tbarthel on 12/04/2014.

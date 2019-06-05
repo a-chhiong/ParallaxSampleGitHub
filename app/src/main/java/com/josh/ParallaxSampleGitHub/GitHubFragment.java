@@ -1,12 +1,12 @@
-package fr.tvbarthel.parallax.sample.github;
+package com.josh.ParallaxSampleGitHub;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import fr.tvbarthel.parallax.sample.github.parallax.ParallaxFragment;
-import fr.tvbarthel.parallax.sample.github.parallax.ParallaxRelativeLayout;
+import com.josh.ParallaxSampleGitHub.parallax.ParallaxFragment;
+import com.josh.ParallaxSampleGitHub.parallax.ParallaxRelativeLayout;
 
 /**
  * Created by tbarthel on 12/04/2014.

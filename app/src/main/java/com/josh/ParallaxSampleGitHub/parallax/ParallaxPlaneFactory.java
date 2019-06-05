@@ -1,4 +1,4 @@
-package fr.tvbarthel.parallax.sample.github.parallax;
+package com.josh.ParallaxSampleGitHub.parallax;
 
 /**
  * Used to create plane according to zOrder

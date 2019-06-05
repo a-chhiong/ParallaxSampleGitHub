@@ -1,4 +1,4 @@
-package fr.tvbarthel.parallax.sample.github.parallax;
+package com.josh.ParallaxSampleGitHub.parallax;
 
 import android.app.Activity;
 import android.content.Context;

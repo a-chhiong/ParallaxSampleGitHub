@@ -1,4 +1,4 @@
-package fr.tvbarthel.parallax.sample.github.parallax;
+package com.josh.ParallaxSampleGitHub.parallax;
 
 import android.animation.ObjectAnimator;
 import android.content.Context;
@@ -17,9 +17,9 @@ import android.view.ViewGroup;
 import android.view.WindowManager;
 import android.widget.RelativeLayout;
 
-import java.util.HashMap;
+import com.josh.ParallaxSampleGitHub.R;
 
-import fr.tvbarthel.parallax.sample.github.R;
+import java.util.HashMap;
 
 
 /**
